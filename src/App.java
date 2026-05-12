@@ -8,8 +8,8 @@ public class App {
         // EJERCICIO 3 - Evaluación de rendimiento académico
         // ==================================================================================
         System.out.println("=== EJERCICIO 3 - Evaluacion de rendimiento academico === ");
-        int estudiantes = 5;
-        int cursos = 3;
+        int estudiantes = 10;
+        int cursos = 5;
         // Matriz para almacenar calificaciones de cada estudiante en cada curso
         double[][] calificaciones = new double[estudiantes][cursos];
         // Arreglo para almacenar el promedio de cada estudiante
